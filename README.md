@@ -1,4 +1,4 @@
-# Testmap
+# MockGPS
 
 Android app to Mock Locations.
 
